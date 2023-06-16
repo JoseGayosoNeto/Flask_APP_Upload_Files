@@ -28,4 +28,4 @@ Assim, com o servidor local inicializado, basta acessá-lo (normalmente o link d
 ## Documentação Adicional
 
 * https://flask.palletsprojects.com/en/2.3.x/
-* Tutorial_5_Upload_Files.pdf (Presente no repositório. Para melhor aproveitamento, recomenda-se visualizar os outros tutoriais presentes também no repositório)
+* Tutorial_5_Upload_Files.pdf (Presente no repositório.)
